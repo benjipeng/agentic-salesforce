@@ -1,0 +1,16 @@
+ContentNoteExtId__c,Title,Content,RelatedRecordExtId__c,RelatedObject__c
+RC-NOTE-0001,Acme QBR 2025 10,Discussed SecOps renewal scope outcomes and new clinic rollout,RC-ACCT-0001,Account
+RC-NOTE-0002,Northern Lights rollout planning,Agreed to phase observability rollout by data center and region,RC-OPP-0003,Opportunity
+RC-NOTE-0003,Greenfield migration rehearsal,Captured findings from first migration rehearsal and rollback test,RC-OPP-0005,Opportunity
+RC-NOTE-0004,BlueSky Black Friday retro,Documented peak season incidents and follow up actions,RC-ACCT-0004,Account
+RC-NOTE-0005,Vertex audit readout,Summary of zero trust audit findings and remediation priorities,RC-OPP-0009,Opportunity
+RC-NOTE-0006,UrbanGrid incident review,Notes from review of recent control plane incident,RC-CAS-0011,Case
+RC-NOTE-0007,CloudNova pilot planning,Outlined pilot goals and metrics for managed DevOps,RC-OPP-0012,Opportunity
+RC-NOTE-0008,Everest audit scope,Defined scope for upcoming regulatory audit evidence export,RC-CAS-0014,Case
+RC-NOTE-0009,Acme SSO troubleshooting,Session notes from joint troubleshooting call for SSO issues,RC-CAS-0002,Case
+RC-NOTE-0010,Northern Lights SRE workshop,Notes from SRE workshop on card authorization SLOs,RC-OPP-0004,Opportunity
+RC-NOTE-0011,Greenfield DevOps proposal review,Feedback from operations on managed DevOps proposal,RC-OPP-0006,Opportunity
+RC-NOTE-0012,BlueSky full rollout planning,Initial planning notes for observability full rollout,RC-OPP-0008,Opportunity
+RC-NOTE-0013,Vertex SecOps negotiation,Key concerns from legal and security about managed SecOps,RC-OPP-0010,Opportunity
+RC-NOTE-0014,UrbanGrid QBR 2025 Q3,Discussed reliability trends and SRE roadmap for energy platform,RC-ACCT-0006,Account
+RC-NOTE-0015,Everest incident process workshop,Workshop notes on current incident classification and escalation,RC-OPP-0014,Opportunity

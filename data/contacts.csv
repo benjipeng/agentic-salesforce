@@ -1,0 +1,25 @@
+ContactExtId__c,AccountExtId__c,FirstName,LastName,Title,Email,Phone,Role__c,Department,Decision_Role__c,Description
+RC-CON-0001,RC-ACCT-0001,Sarah,Chen,Chief Information Security Officer,sarah.chen@acmehealth.example,415-555-1001,Executive Sponsor,Security,Decision Maker,Owns hospital security program and approves strategic vendors
+RC-CON-0002,RC-ACCT-0001,Michael,Reed,Director of IT Operations,michael.reed@acmehealth.example,415-555-1002,Operational Owner,IT,Influencer,Responsible for day to day reliability and on call process
+RC-CON-0003,RC-ACCT-0001,Lisa,Patel,Procurement Manager,lisa.patel@acmehealth.example,415-555-1003,Procurement,Finance,Gatekeeper,Manages vendor onboarding contracts and renewals
+RC-CON-0004,RC-ACCT-0002,James,Walker,VP Infrastructure,james.walker@northernlightsbank.example,617-555-2001,Executive Sponsor,IT,Decision Maker,Owns infrastructure strategy and budget for observability tools
+RC-CON-0005,RC-ACCT-0002,Amelia,Gomez,SecOps Lead,amelia.gomez@northernlightsbank.example,617-555-2002,Operational Owner,Security,Influencer,Leads security incident response and tuning runbooks
+RC-CON-0006,RC-ACCT-0002,Robert,King,Vendor Management Analyst,robert.king@northernlightsbank.example,617-555-2003,Procurement,Finance,Gatekeeper,Tracks vendor performance and renewal risks
+RC-CON-0007,RC-ACCT-0003,Olivia,Nguyen,Head of IT,olivia.nguyen@greenfieldlogistics.example,303-555-3001,Executive Sponsor,IT,Decision Maker,Owns IT roadmap and modernization projects
+RC-CON-0008,RC-ACCT-0003,Daniel,Lopez,Operations Manager,daniel.lopez@greenfieldlogistics.example,303-555-3002,Business Owner,Operations,Influencer,Leads dispatch operations impacted by outages and latency
+RC-CON-0009,RC-ACCT-0003,Grace,Kim,Project Manager,grace.kim@greenfieldlogistics.example,303-555-3003,Project Lead,PMO,Influencer,Coordinates rollout milestones and stakeholder updates
+RC-CON-0010,RC-ACCT-0004,Emma,Collins,Director of Ecommerce,emma.collins@blueskyretail.example,312-555-4001,Business Owner,Digital,Decision Maker,Owns ecommerce uptime and customer experience KPIs
+RC-CON-0011,RC-ACCT-0004,Noah,Bennett,Site Reliability Engineer,noah.bennett@blueskyretail.example,312-555-4002,Technical Champion,Engineering,Influencer,Drives observability instrumentation and SLO design
+RC-CON-0012,RC-ACCT-0004,Harper,Diaz,Finance Business Partner,harper.diaz@blueskyretail.example,312-555-4003,Finance Partner,Finance,Gatekeeper,Reviews ROI assumptions and approves budget increases
+RC-CON-0013,RC-ACCT-0005,Liam,Shah,IT Director,liam.shah@vertexmfg.example,313-555-5001,Executive Sponsor,IT,Decision Maker,Owns legacy systems modernization and risk mitigation
+RC-CON-0014,RC-ACCT-0005,Ava,Ramirez,Plant Operations Lead,ava.ramirez@vertexmfg.example,313-555-5002,Business Owner,Operations,Influencer,Ensures monitoring does not disrupt production lines
+RC-CON-0015,RC-ACCT-0005,Caleb,Foster,Security Architect,caleb.foster@vertexmfg.example,313-555-5003,Technical Champion,Security,Influencer,Evaluates security posture and vendor hardening capabilities
+RC-CON-0016,RC-ACCT-0006,Mia,Jordan,Head of Platform Engineering,mia.jordan@urbangridenergy.example,512-555-6001,Executive Sponsor,Engineering,Decision Maker,Owns platform scalability and reliability initiatives
+RC-CON-0017,RC-ACCT-0006,Ethan,Price,Incident Manager,ethan.price@urbangridenergy.example,512-555-6002,Operational Owner,Operations,Influencer,Leads incident response and post incident reviews
+RC-CON-0018,RC-ACCT-0006,Sophia,Li,Customer Success Director,sophia.li@urbangridenergy.example,512-555-6003,Customer Champion,Customer Success,Influencer,Connects reliability improvements to customer retention targets
+RC-CON-0019,RC-ACCT-0007,Alex,Rivera,CTO,alex.rivera@cloudnova.example,206-555-7001,Executive Sponsor,Engineering,Decision Maker,Technical founder evaluating managed services to offload operations
+RC-CON-0020,RC-ACCT-0007,Priyanka,Desai,Head of Product,priyanka.desai@cloudnova.example,206-555-7002,Business Owner,Product,Influencer,Cares about experiment velocity and minimal downtime during launches
+RC-CON-0021,RC-ACCT-0008,Marco,Rossi,CIO,marco.rossi@everestinsurance.example,212-555-8001,Executive Sponsor,IT,Decision Maker,Owns IT transformation program and vendor consolidation
+RC-CON-0022,RC-ACCT-0008,Isabella,Ng,Compliance Manager,isabella.ng@everestinsurance.example,212-555-8002,Compliance Lead,Risk,Influencer,Responsible for regulatory reporting and audit readiness
+RC-CON-0023,RC-ACCT-0008,Jason,Lee,Claims Operations Director,jason.lee@everestinsurance.example,212-555-8003,Business Owner,Operations,Influencer,Focuses on claims processing SLAs and call center stability
+RC-CON-0024,RC-ACCT-0007,Chen,Zhao,DevOps Engineer,chen.zhao@cloudnova.example,206-555-7003,Technical Champion,Engineering,Influencer,Hands on engineer evaluating tooling fit and integration effort

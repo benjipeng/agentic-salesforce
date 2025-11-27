@@ -1,0 +1,16 @@
+CaseExtId__c,AccountExtId__c,ContactExtId__c,Subject,Description,Status,Priority,Origin,SLA_Due__c,First_Response_Time_Min__c,Resolve_Time_Min__c
+RC-CAS-0001,RC-ACCT-0001,RC-CON-0002,API rate limit spikes during morning intake,API errors observed between 8 and 10 am during patient intake,Working,High,Email,2025-01-05,30,240
+RC-CAS-0002,RC-ACCT-0001,RC-CON-0001,SSO SAML configuration failing for clinicians,Clinicians seeing single sign on errors after IdP change,New,High,Web,2025-02-15,60,
+RC-CAS-0003,RC-ACCT-0002,RC-CON-0005,Slow query performance on fraud dashboard,Fraud analytics dashboards occasionally time out during peak hours,Closed,Medium,Phone,2024-12-10,45,720
+RC-CAS-0004,RC-ACCT-0002,RC-CON-0004,Alert noise from card authorization service,Too many non actionable alerts for card authorization errors,Working,Medium,Email,2025-03-20,120,
+RC-CAS-0005,RC-ACCT-0003,RC-CON-0007,Missed delivery alerts for regional hub,On call team did not receive alerts for failed dispatch jobs,Closed,High,Email,2025-04-05,20,180
+RC-CAS-0006,RC-ACCT-0003,RC-CON-0008,Incorrect SLA labels on incident reports,Incident reports show incorrect SLA timers for some regions,Working,Low,Web,2025-06-10,120,
+RC-CAS-0007,RC-ACCT-0004,RC-CON-0010,Black Friday synthetic checks failing intermittently,Synthetic monitoring alerts during high traffic tests,Closed,High,Email,2025-11-15,15,90
+RC-CAS-0008,RC-ACCT-0004,RC-CON-0011,Missing logs from store POS devices,Some store point of sale terminals not sending logs,New,Medium,Phone,2025-10-01,60,
+RC-CAS-0009,RC-ACCT-0005,RC-CON-0013,Agent install failing on legacy Windows servers,Monitoring agent cannot install on older plant servers,Working,Medium,Email,2025-01-25,90,
+RC-CAS-0010,RC-ACCT-0005,RC-CON-0015,Excessive false positives from security rules,Security rules flag benign administrative activity,Closed,Medium,Web,2025-05-30,60,360
+RC-CAS-0011,RC-ACCT-0006,RC-CON-0016,High latency for control plane metrics,Metrics for control plane delayed by several minutes,Working,High,Email,2025-07-20,30,
+RC-CAS-0012,RC-ACCT-0006,RC-CON-0017,Post incident review export failing,Export of incident review data intermittently fails,Closed,Low,Web,2025-09-05,120,240
+RC-CAS-0013,RC-ACCT-0007,RC-CON-0019,Help configuring preview environment alerts,Startup needs guidance on alert thresholds for preview clusters,Closed,Low,Web,2025-08-10,60,180
+RC-CAS-0014,RC-ACCT-0008,RC-CON-0021,Regulatory audit evidence export request,Need export of incident and uptime data for audit,Working,High,Email,2025-10-20,45,
+RC-CAS-0015,RC-ACCT-0008,RC-CON-0022,Question about data retention policies,Compliance team asks for updated retention documentation,Closed,Low,Email,2025-09-15,120,1440

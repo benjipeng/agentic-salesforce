@@ -1,0 +1,13 @@
+QuoteExtId__c,OpportunityExtId__c,Name,ExpirationDate,Status,PaymentTerms__c,ShippingCity,ShippingState,Description
+RC-QUO-0001,RC-OPP-0001,Acme Health SecOps 2024 Quote,2024-06-30,Accepted,Net 30,San Francisco,CA,Finalized 12 month SecOps retainer pricing
+RC-QUO-0002,RC-OPP-0002,Acme Health SecOps Renewal 2025 Quote,2025-07-01,Presented,Net 30,San Francisco,CA,Renewal quote with expanded clinic coverage
+RC-QUO-0003,RC-OPP-0003,Northern Lights Observability 2024 Quote,2024-08-20,Accepted,Net 45,Boston,MA,Observability rollout across primary data centers
+RC-QUO-0004,RC-OPP-0004,Northern Lights SRE Add On Quote,2025-11-15,Draft,Net 45,Boston,MA,SRE add on for card processing services
+RC-QUO-0005,RC-OPP-0005,Greenfield Migration 2024 Quote,2024-09-30,Accepted,Net 30,Denver,CO,Migrate logistics tracking to cloud with minimal downtime
+RC-QUO-0006,RC-OPP-0006,Greenfield Managed DevOps Quote,2025-08-10,Presented,Net 30,Denver,CO,Managed DevOps services for logistics apps
+RC-QUO-0007,RC-OPP-0007,BlueSky Observability Pilot Quote,2025-03-25,Accepted,Net 30,Chicago,IL,Short term observability pilot across ecommerce and POS
+RC-QUO-0008,RC-OPP-0008,BlueSky Full Rollout Quote,2025-11-30,Presented,Net 45,Chicago,IL,Full rollout of observability and incident response
+RC-QUO-0009,RC-OPP-0009,Vertex Zero Trust Audit Quote,2024-11-30,Accepted,Net 30,Detroit,MI,Security audit engagement focusing on zero trust readiness
+RC-QUO-0010,RC-OPP-0010,Vertex Managed SecOps Quote,2025-06-15,Presented,Net 30,Detroit,MI,Managed SecOps coverage for plants and corporate offices
+RC-QUO-0011,RC-OPP-0011,UrbanGrid Platform SRE Quote,2025-04-20,Accepted,Net 30,Austin,TX,SRE engagement for distributed energy platform
+RC-QUO-0012,RC-OPP-0012,CloudNova DevOps Pilot Quote,2025-09-30,Presented,Net 30,Seattle,WA,Managed DevOps pilot for core product team

@@ -1,0 +1,21 @@
+FeedItemExtId__c,ParentExtId__c,ParentObject__c,Body,CreatedDate,Title
+RC-FEED-0001,RC-OPP-0001,Opportunity,Contract signed for Acme SecOps retainer,2024-07-10T10:00:00Z,Acme SecOps deal closed
+RC-FEED-0002,RC-OPP-0003,Opportunity,Board approved observability rollout budget,2024-09-05T11:15:00Z,Northern Lights observability approved
+RC-FEED-0003,RC-OPP-0005,Opportunity,Migration proof of concept completed successfully,2024-10-10T09:30:00Z,Greenfield migration POC success
+RC-FEED-0004,RC-OPP-0007,Opportunity,BlueSky signed pilot agreement,2025-04-12T10:15:00Z,BlueSky observability pilot closed
+RC-FEED-0005,RC-OPP-0009,Opportunity,Vertex zero trust audit engagement signed,2024-12-18T11:00:00Z,Vertex audit won
+RC-FEED-0006,RC-OPP-0011,Opportunity,UrbanGrid SRE engagement approved after major incident,2025-05-08T09:45:00Z,UrbanGrid SRE deal closed
+RC-FEED-0007,RC-OPP-0015,Opportunity,Competitive replacement at Northern Lights lost to incumbent,2025-03-01T10:00:00Z,Northern Lights competitive loss
+RC-FEED-0008,RC-OPP-0016,Opportunity,Cost optimization project at Greenfield deferred,2025-01-20T11:00:00Z,Greenfield cost optimization lost
+RC-FEED-0009,RC-CAS-0001,Case,Investigating API rate limit spikes with engineering,2025-01-05T12:00:00Z,API rate limit case opened
+RC-FEED-0010,RC-CAS-0003,Case,Dashboard query optimization deployed to production,2024-12-11T16:00:00Z,Fraud dashboard case resolved
+RC-FEED-0011,RC-CAS-0005,Case,Alert routing fixed for regional logistics hub,2025-04-06T13:30:00Z,Missed delivery alerts resolved
+RC-FEED-0012,RC-CAS-0007,Case,Synthetic checks tuned for Black Friday traffic,2025-11-16T14:15:00Z,Black Friday checks tuned
+RC-FEED-0013,RC-CAS-0010,Case,Security rules adjusted to reduce false positives,2025-05-30T15:00:00Z,Security false positives reduced
+RC-FEED-0014,RC-CAS-0012,Case,Incident review export bug fixed in latest release,2025-09-06T10:45:00Z,Export failure resolved
+RC-FEED-0015,RC-CAS-0013,Case,Recommended preview cluster alert thresholds sent to customer,2025-08-11T11:30:00Z,Preview alerts guidance shared
+RC-FEED-0016,RC-CAS-0015,Case,Updated data retention documentation delivered to compliance team,2025-09-16T09:00:00Z,Retention docs delivered
+RC-FEED-0017,RC-ACCT-0001,Account,Acme moved to Gold support tier based on growth and engagement,2025-01-01T10:00:00Z,Acme tier upgraded
+RC-FEED-0018,RC-ACCT-0002,Account,Northern Lights added quarterly executive reviews to account plan,2025-02-01T11:00:00Z,Northern Lights QBR added
+RC-FEED-0019,RC-ACCT-0004,Account,BlueSky pilot success flagged strong expansion opportunity,2025-05-01T12:00:00Z,BlueSky expansion flagged
+RC-FEED-0020,RC-ACCT-0006,Account,UrbanGrid incident highlighted importance of SRE partnership,2025-03-20T13:00:00Z,UrbanGrid incident learning

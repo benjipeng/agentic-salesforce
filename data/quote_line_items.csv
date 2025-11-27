@@ -1,0 +1,19 @@
+QuoteLineItemExtId__c,QuoteExtId__c,ProductExtId__c,Quantity,UnitPrice,Discount,Description
+RC-QLI-0001,RC-QUO-0001,RC-PROD-0001,1,300000,0,SecOps retainer for core hospital systems
+RC-QLI-0002,RC-QUO-0002,RC-PROD-0001,1,330000,0,SecOps renewal with additional clinic coverage
+RC-QLI-0003,RC-QUO-0003,RC-PROD-0003,1,240000,0,Managed DevOps platform for bank core services
+RC-QLI-0004,RC-QUO-0003,RC-PROD-0004,1,180000,0,API reliability SRE engagement for payment APIs
+RC-QLI-0005,RC-QUO-0004,RC-PROD-0004,1,180000,10,Discounted SRE add on for card services
+RC-QLI-0006,RC-QUO-0005,RC-PROD-0002,1,60000,0,Cloud migration assessment phase
+RC-QLI-0007,RC-QUO-0005,RC-PROD-0005,1,120000,0,Data platform build out for logistics workloads
+RC-QLI-0008,RC-QUO-0006,RC-PROD-0003,1,240000,5,Managed DevOps for logistics apps
+RC-QLI-0009,RC-QUO-0007,RC-PROD-0003,1,120000,0,Limited scope managed DevOps pilot
+RC-QLI-0010,RC-QUO-0007,RC-PROD-0004,1,30000,0,Additional API reliability focus for ecommerce
+RC-QLI-0011,RC-QUO-0008,RC-PROD-0003,1,240000,5,Full managed DevOps rollout
+RC-QLI-0012,RC-QUO-0008,RC-PROD-0004,1,110000,5,Expanded API reliability coverage
+RC-QLI-0013,RC-QUO-0009,RC-PROD-0007,1,90000,0,Zero trust security audit
+RC-QLI-0014,RC-QUO-0009,RC-PROD-0006,1,80000,0,ITSM integration pack
+RC-QLI-0015,RC-QUO-0010,RC-PROD-0001,1,260000,5,Managed SecOps retainer
+RC-QLI-0016,RC-QUO-0011,RC-PROD-0004,1,180000,0,Platform SRE for energy systems
+RC-QLI-0017,RC-QUO-0011,RC-PROD-0006,1,80000,0,ITSM integration for incident workflows
+RC-QLI-0018,RC-QUO-0012,RC-PROD-0003,1,90000,0,Managed DevOps pilot

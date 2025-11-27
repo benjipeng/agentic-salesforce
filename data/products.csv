@@ -1,0 +1,9 @@
+ProductExtId__c,Name,ProductCode,IsActive,Description
+RC-PROD-0001,SecOps Retainer,SEC-RETAINER-12,true,Ongoing security operations and incident response service
+RC-PROD-0002,Cloud Migration Assessment,CLOUD-ASMT,true,Fixed scope assessment for cloud migration readiness
+RC-PROD-0003,Managed DevOps Platform,DEVOPS-MANAGED,true,Managed CI CD and observability platform for engineering teams
+RC-PROD-0004,API Reliability SRE,API-SRE,true,SRE engagement focused on improving API uptime and latency
+RC-PROD-0005,Data Platform Build Out,DATA-PLATFORM,true,Design and implementation of modern analytics data platform
+RC-PROD-0006,ITSM Integration Pack,ITSM-INTEG,true,Integration between incident management tools and Salesforce
+RC-PROD-0007,Zero Trust Security Audit,ZT-AUDIT,true,Point in time deep dive of identity and access controls
+RC-PROD-0008,GenAI Enablement Workshop,GENAI-WS,true,Workshop to identify safe and valuable GenAI use cases

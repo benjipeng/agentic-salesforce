@@ -1,0 +1,31 @@
+TaskExtId__c,WhatExtId__c,WhatExtId_Type,WhoExtId__c,Subject,Description,Status,Priority,ActivityDate
+RC-TASK-0001,RC-OPP-0001,Opportunity,RC-CON-0002,Schedule onboarding workshop,Coordinate SecOps onboarding workshop with operations and security teams,Completed,High,2024-07-01
+RC-TASK-0002,RC-OPP-0001,Opportunity,RC-CON-0003,Finalize contract signatures,Work with procurement to collect all signatures,Completed,High,2024-07-08
+RC-TASK-0003,RC-OPP-0002,Opportunity,RC-CON-0001,Review renewal scope,Discuss expanded clinic coverage and new requirements,In Progress,Normal,2025-06-20
+RC-TASK-0004,RC-OPP-0002,Opportunity,RC-CON-0003,Send updated pricing proposal,Share updated renewal quote with procurement,Not Started,High,2025-06-25
+RC-TASK-0005,RC-OPP-0003,Opportunity,RC-CON-0004,Plan phased rollout,Define rollout plan by data center region,Completed,Normal,2024-08-15
+RC-TASK-0006,RC-OPP-0004,Opportunity,RC-CON-0005,Confirm SLO targets,Align on target error budgets for card services,Not Started,High,2025-10-05
+RC-TASK-0007,RC-OPP-0005,Opportunity,RC-CON-0007,Schedule migration rehearsal,Book cutover rehearsal with operations leaders,Completed,High,2024-10-05
+RC-TASK-0008,RC-OPP-0006,Opportunity,RC-CON-0008,Gather DevOps requirements,Collect detailed requirements for managed DevOps,In Progress,Normal,2025-07-25
+RC-TASK-0009,RC-OPP-0007,Opportunity,RC-CON-0010,Review pilot KPIs,Review observability pilot KPIs after Black Friday,Completed,High,2025-11-20
+RC-TASK-0010,RC-OPP-0008,Opportunity,RC-CON-0011,Prepare rollout business case,Build business case for full observability rollout,Not Started,High,2025-12-01
+RC-TASK-0011,RC-OPP-0009,Opportunity,RC-CON-0013,Present audit findings,Walk through zero trust audit results with IT and risk,Completed,High,2024-12-22
+RC-TASK-0012,RC-OPP-0010,Opportunity,RC-CON-0015,Align on SecOps coverage,Align on coverage hours and on call expectations,In Progress,Normal,2025-06-10
+RC-TASK-0013,RC-OPP-0011,Opportunity,RC-CON-0016,Define SRE engagement scope,Confirm scope for platform SRE engagement,Completed,Normal,2025-04-10
+RC-TASK-0014,RC-OPP-0012,Opportunity,RC-CON-0019,Define pilot success metrics,Agree on metrics for DevOps pilot success,Not Started,High,2025-09-10
+RC-TASK-0015,RC-OPP-0013,Opportunity,RC-CON-0020,Schedule GenAI workshop,Schedule GenAI enablement workshop with product and engineering,Not Started,Normal,2026-01-10
+RC-TASK-0016,RC-OPP-0014,Opportunity,RC-CON-0021,Document current incident process,Collect current incident runbooks and escalation paths,In Progress,High,2025-11-05
+RC-TASK-0017,RC-CAS-0001,Case,RC-CON-0002,Review API rate limit settings,Review current rate limit thresholds with engineering,Completed,High,2025-01-06
+RC-TASK-0018,RC-CAS-0003,Case,RC-CON-0005,Analyze dashboard queries,Identify slow queries and propose index changes,Completed,Normal,2024-12-11
+RC-TASK-0019,RC-CAS-0005,Case,RC-CON-0008,Test alert routing,Verify alerts reach on call team for regional hub,Completed,High,2025-04-06
+RC-TASK-0020,RC-CAS-0007,Case,RC-CON-0011,Tune synthetic checks,Tune synthetic monitoring thresholds for Black Friday traffic,Completed,High,2025-11-16
+RC-TASK-0021,RC-CAS-0009,Case,RC-CON-0013,Provide legacy server guidance,Share supported configuration options for legacy servers,In Progress,Normal,2025-01-28
+RC-TASK-0022,RC-CAS-0011,Case,RC-CON-0017,Investigate metrics latency,Investigate cause of control plane metric delays,In Progress,High,2025-07-21
+RC-TASK-0023,RC-CAS-0013,Case,RC-CON-0019,Recommend alert defaults,Provide recommended alert thresholds for preview cluster,Completed,Low,2025-08-11
+RC-TASK-0024,RC-CAS-0014,Case,RC-CON-0022,Prepare audit evidence,Collect uptime and incident data exports for regulators,In Progress,High,2025-10-22
+RC-TASK-0025,RC-ACCT-0001,Account,RC-CON-0001,Quarterly business review,Review outcomes and roadmap with Acme executive team,Not Started,Normal,2025-12-10
+RC-TASK-0026,RC-ACCT-0002,Account,RC-CON-0004,Quarterly business review,Review reliability metrics and roadmap with bank leadership,Not Started,Normal,2025-12-15
+RC-TASK-0027,RC-ACCT-0003,Account,RC-CON-0007,Quarterly business review,Discuss logistics modernization roadmap and incident stats,Not Started,Normal,2025-12-18
+RC-TASK-0028,RC-ACCT-0004,Account,RC-CON-0010,Quarterly business review,Review ecommerce peak season performance and incidents,Not Started,Normal,2025-12-20
+RC-TASK-0029,RC-ACCT-0005,Account,RC-CON-0013,Quarterly business review,Review audit outcomes and SecOps roadmap,Not Started,Normal,2025-12-22
+RC-TASK-0030,RC-ACCT-0006,Account,RC-CON-0016,Quarterly business review,Discuss energy platform reliability and incident trends,Not Started,Normal,2025-12-23

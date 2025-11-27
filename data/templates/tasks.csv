@@ -1,0 +1,2 @@
+# TaskExtId__c,WhatExtId__c,WhatExtId_Type,WhoExtId__c,Subject,Description,Status,Priority,ActivityDate
+# WhatExtId_Type allowed values (polymorphic): Account, Opportunity, Case, Quote

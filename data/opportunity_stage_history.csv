@@ -1,0 +1,40 @@
+OpportunityExtId__c,StageName,Probability,CreatedDate,Description
+RC-OPP-0001,Qualification,10,2024-05-20T10:00:00Z,Initial discovery call with CISO and operations
+RC-OPP-0001,Proposal/Price Quote,60,2024-06-15T15:00:00Z,Proposal reviewed including incident response runbooks
+RC-OPP-0001,Closed Won,100,2024-07-10T09:30:00Z,Contract signed after security review
+RC-OPP-0002,Qualification,10,2025-05-10T11:00:00Z,Discussed renewal objectives and new clinic rollout
+RC-OPP-0002,Negotiation/Review,70,2025-07-01T16:00:00Z,Legal teams reviewing updated data processing terms
+RC-OPP-0003,Prospecting,5,2024-06-01T13:00:00Z,Referral from existing security tooling vendor
+RC-OPP-0003,Needs Analysis,25,2024-07-01T14:00:00Z,Workshops to understand current monitoring gaps
+RC-OPP-0003,Proposal/Price Quote,60,2024-08-10T10:30:00Z,Presented phased rollout plan by region
+RC-OPP-0003,Closed Won,100,2024-09-05T09:00:00Z,Board approved spend after risk committee review
+RC-OPP-0004,Qualification,15,2025-08-05T12:00:00Z,Identified SRE pain points around card declines
+RC-OPP-0004,Value Proposition,40,2025-09-10T15:30:00Z,Aligned on SLO targets and error budget policy
+RC-OPP-0005,Qualification,20,2024-07-05T11:00:00Z,Logistics leadership expressed interest in cloud migration
+RC-OPP-0005,Proposal/Price Quote,55,2024-09-01T09:15:00Z,Migration plan shared including cutover rehearsal schedule
+RC-OPP-0005,Closed Won,100,2024-10-20T14:45:00Z,Contract executed after successful proof of concept
+RC-OPP-0006,Prospecting,5,2025-06-01T10:00:00Z,Introduced managed DevOps model to IT director
+RC-OPP-0006,Proposal/Price Quote,50,2025-07-20T13:30:00Z,Shared proposal with operations and finance teams
+RC-OPP-0007,Qualification,15,2025-01-15T10:00:00Z,Identified ecommerce observability issues during holiday peak
+RC-OPP-0007,Proposal/Price Quote,65,2025-03-10T14:00:00Z,Pilot scope agreed for ecommerce and POS systems
+RC-OPP-0007,Closed Won,100,2025-04-12T09:45:00Z,Contract signed after pilot budget approved
+RC-OPP-0008,Prospecting,5,2025-07-01T11:15:00Z,Follow up after pilot success to discuss full rollout
+RC-OPP-0008,Qualification,30,2025-09-05T16:30:00Z,Validated value metrics with ecommerce director and finance
+RC-OPP-0009,Qualification,20,2024-09-01T10:00:00Z,Security team requested independent audit of access controls
+RC-OPP-0009,Proposal/Price Quote,60,2024-11-01T15:00:00Z,Shared detailed audit methodology and sample findings
+RC-OPP-0009,Closed Won,100,2024-12-18T10:30:00Z,Engagement approved by risk committee
+RC-OPP-0010,Prospecting,10,2025-03-01T09:00:00Z,Discussed ongoing SecOps needs post audit
+RC-OPP-0010,Negotiation/Review,65,2025-06-15T14:30:00Z,Negotiating coverage hours and response time commitments
+RC-OPP-0011,Qualification,25,2025-02-10T11:00:00Z,Identified SRE gaps for distributed energy platform
+RC-OPP-0011,Proposal/Price Quote,70,2025-04-05T13:00:00Z,Proposed SRE engagement and on call integration plan
+RC-OPP-0011,Closed Won,100,2025-05-08T09:15:00Z,Signed after production incident highlighted gaps
+RC-OPP-0012,Prospecting,5,2025-07-15T10:30:00Z,Initial conversation with CTO about managed DevOps
+RC-OPP-0012,Qualification,35,2025-09-20T15:45:00Z,Agreed to evaluate pilot proposal
+RC-OPP-0013,Prospecting,5,2025-10-20T09:30:00Z,Introduced GenAI enablement concept to product team
+RC-OPP-0014,Needs Analysis,45,2025-11-10T10:15:00Z,Workshops scheduled to review current incident process
+RC-OPP-0015,Qualification,20,2024-12-01T11:00:00Z,Explored replacing incumbent vendor, initial interest
+RC-OPP-0015,Proposal/Price Quote,55,2025-01-20T14:00:00Z,Presented competitive replacement proposal
+RC-OPP-0015,Closed Lost,0,2025-03-01T09:30:00Z,Customer decided to renew with incumbent
+RC-OPP-0016,Qualification,25,2024-11-15T10:00:00Z,Discussed cost optimization scenarios with IT director
+RC-OPP-0016,Proposal/Price Quote,50,2024-12-20T13:30:00Z,Shared proposal focused on reducing cloud spend
+RC-OPP-0016,Closed Lost,0,2025-01-20T10:15:00Z,Project deferred due to budget freeze
